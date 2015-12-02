@@ -14,3 +14,5 @@ Here are a few concepts to start with
 
 # Reference
 <a href= "https://blog.glyphobet.net/essay/2557">Python vs. Javascript</a>
+
+<a href='https://learn.co/lessons/cssi-4.6-python-javascipt-summary' data-visibility='hidden'>View this lesson on Learn.co</a>
