@@ -15,4 +15,4 @@ Here are a few concepts to start with
 # Reference
 <a href= "https://blog.glyphobet.net/essay/2557">Python vs. Javascript</a>
 
-<a href='https://learn.co/lessons/cssi-4.6-python-javascipt-summary' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.6-python-javascipt-summary' title='Summary Python vs. Javascript'>Summary Python vs. Javascript</a> on Learn.co and start learning to code for free.</p>
